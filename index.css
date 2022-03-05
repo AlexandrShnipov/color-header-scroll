@@ -1,0 +1,26 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+}
+
+header {
+  padding: 20px;
+  height: 100px;
+  width: 100%;
+  position: fixed;
+  background-color: rgb(195, 218, 67);
+  transition: all .5s;
+}
+
+section {
+  height: 10000px;
+  background-color: rgb(228, 237, 238);
+}
+
+.nav-colored {
+  background-color: rgb(209, 118, 118);
+}
+
+/* .nav-transparent {
+  background-color: rgb(195, 218, 67);
+} */
